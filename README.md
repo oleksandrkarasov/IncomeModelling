@@ -1,8 +1,8 @@
-# Repository to host code scripts for manuscript "Sentinel and Google Street View data predict household income in New York City, Greater Sydney, and Amsterdam"
+# Repository to host code scripts for manuscript "Landscapes of Wealth and Poverty: Predicting Household Income with Sentinel and Street View Imagery in Amsterdam, Sydney, and New York"
 
 This repository contains Google Earth Engine code scripts to calculate income prediction features from satellite imagery (links to the scripts are provided as follows), code to calculate income prediction features from Google Street View images (images are not provided as they are subject to copyright), TensorFlow image classification models for Google Street View scenes.
 
-Folders 'Amsterdam model', 'New York City model', and 'Greater Sydney model' contain Jupyter notebooks for CatBoost income prediction models based on combined sets of features. To use remote sensing- or Google Street View-only sets of features, use .csv files with extensions 'rs' and 'gsv', respectively instead of defaults. Resulting .bin and .json CatBoost models are provided.
+Jupyter notebooks illustrate the process of fitting city-specific CatBoost models for Amsterdam (classifier), Greater Sydney and New York City (regressor). Use respective .csv files for replicating modelling procedure.
 
 
 ## Google Earth Engine scripts
