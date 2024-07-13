@@ -4,7 +4,7 @@ This repository contains Google Earth Engine code scripts to calculate income pr
 
 Jupyter notebooks illustrate the process of fitting city-specific CatBoost models for Amsterdam (classifier), Greater Sydney and New York City (regressor). Use respective .csv files for replicating modelling procedure.
 
-## Lobe image classification models:
+## Microsoft Lobe image classification models:
 https://1drv.ms/f/s!AquaXBaAiBHno4FjsUK6gAFEYWmLoQ?e=hH0Bac
 
 ## Google Earth Engine scripts
